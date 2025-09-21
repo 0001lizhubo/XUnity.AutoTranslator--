@@ -1,5 +1,6 @@
 {
     "SF_BASE_URL": "https://api.siliconflow.cn/v1",
     "SF_MODEL_TYPE": "deepseek-ai/DeepSeek-V3.1",
-    "SF_API_TOKEN": "Bearer sk-btdayiredyqfmugrxsdohrytsktsfgyzjlozwgkjohmlewtt"
+    "SF_API_TOKEN": "Bearer sk-XXXXXX"
+
 }
